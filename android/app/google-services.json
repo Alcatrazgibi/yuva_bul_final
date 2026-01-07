@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168996171572",
+    "project_id": "yuva-bul",
+    "storage_bucket": "yuva-bul.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168996171572:android:fe755e70a5646a3eb37f61",
+        "android_client_info": {
+          "package_name": "com.example.yuvabul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-goMgLp_J1z3KNGO_aL14VPshIwLA34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168996171572:android:730af70f9b5f8032b37f61",
+        "android_client_info": {
+          "package_name": "com.yuva_bul_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-goMgLp_J1z3KNGO_aL14VPshIwLA34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
